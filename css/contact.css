@@ -26,9 +26,13 @@ textarea {
     padding: 4px;
     border: 2px solid var(--main-bg-color);
     border-radius: 5px;
-    font-family: var(--font1);
+    font-family: var(--font2);
+    font-size: 15px;
 }
 
 p textarea {
     height: 15vw;
+}
+.contact h3{
+    font-size: 20px;
 }
